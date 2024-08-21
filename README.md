@@ -7,8 +7,8 @@ tarea 4 santiago coy
                            
                            
                            
-            ![image](https://github.com/user-attachments/assets/0d7f5d33-27dc-4bd8-b4a9-7486dc6c6e49)
-
+             ![image](https://github.com/user-attachments/assets/0d7f5d33-27dc-4bd8-b4a9-7486dc6c6e49)
+ 
 
             salida en consola punto 3
                 
